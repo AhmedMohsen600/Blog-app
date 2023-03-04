@@ -60,6 +60,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Future Features <a name="future-section"></a>
+
 - **Add notifications**
 - **Add Real time chat**
 - **Image optimization**
