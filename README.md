@@ -14,7 +14,7 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [Future section]
+- [Future features]
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
@@ -59,7 +59,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Future section <a name="future-section"></a>
+### Future Features <a name="future-section"></a>
 - **Add notifications**
 - **Add Real time chat**
 - **Image optimization**
