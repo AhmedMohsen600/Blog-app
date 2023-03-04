@@ -14,6 +14,7 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [Future section]
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
@@ -57,6 +58,11 @@
 - **Like posts**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Future section <a name="future-section"></a>
+- **Add notifications**
+- **Add Real time chat**
+- **Image optimization**
 
 <!-- GETTING STARTED -->
 
