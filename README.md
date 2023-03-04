@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/AhmedMohsen600/Blog-app.git
 ```
 
 ### Install
@@ -89,6 +89,7 @@ Install this project with:
 ```sh
   cd blog-app
   bundle install
+  npm install
 ```
 
 ### Usage
@@ -112,8 +113,8 @@ To run the project, execute the following command:
 
 👤 **Ahmed Mohsen**
 
-- GitHub: [Github Profile](https://github.com/belalgamal46)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/belalgamal/)
+- GitHub: [Github Profile](https://github.com/AhmedMohsen600)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mohsen-bb75b2194/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
